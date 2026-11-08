@@ -21,7 +21,20 @@ Every version, every mod loader, your Modrinth and CurseForge mods: pick, click,
 ---
 
 <div align="center">
-  <img src="https://misty-launcher.online/assets/screens/en/home.png" alt="Misty home screen" width="800" />
+  <img src="https://raw.githubusercontent.com/Misty-MC/Misty-Web/main/public/assets/screens/en/home.png" alt="Misty home screen" width="800" />
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Misty-MC/Misty-Web/main/public/assets/screens/en/profiles.png" alt="Profiles" /></td>
+    <td><img src="https://raw.githubusercontent.com/Misty-MC/Misty-Web/main/public/assets/screens/en/textures.png" alt="Texture packs" /></td>
+    <td><img src="https://raw.githubusercontent.com/Misty-MC/Misty-Web/main/public/assets/screens/en/settings.png" alt="Settings" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Profiles · Modrinth &amp; CurseForge modpacks</sub></td>
+    <td align="center"><sub>Texture pack editor</sub></td>
+    <td align="center"><sub>Settings · Mist, Night &amp; seasonal themes</sub></td>
+  </tr>
+</table>
 </div>
 
 ---
