@@ -9,7 +9,7 @@
 Every version, every mod loader, your Modrinth and CurseForge mods: pick, click, play.
 
 [![Website](https://img.shields.io/badge/website-misty--launcher.online-8ab4f8?style=flat-square)](https://misty-launcher.online/)
-[![Version](https://img.shields.io/badge/version-0.3.3-blue?style=flat-square)](https://github.com/Misty-MC/Misty/releases/latest)
+[![Version](https://img.shields.io/github/v/release/Misty-MC/Misty?label=version&style=flat-square&color=blue)](https://github.com/Misty-MC/Misty/releases/latest)
 [![Rust](https://img.shields.io/badge/written%20in-Rust-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows)](https://misty-launcher.online/)
 [![Free](https://img.shields.io/badge/price-free-success?style=flat-square)](https://misty-launcher.online/)
